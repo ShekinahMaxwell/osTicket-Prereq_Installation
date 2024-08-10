@@ -98,7 +98,15 @@ Once deployment is complete, click on Go to Resource. From this screen copy the 
 <img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
 </p>
 <p>
-Open Microsoft Remote Desktop on your computer and click the + to add PC. Paste the IP address into PC name and click add.
+Open Microsoft Remote Desktop on your computer and click the + to add PC. Paste the IP address into PC name and click add. Select continue and then for the Privacy Settings screen, select no to all. 
+</p>
+<br />
+
+<p>
+<img width="600" alt="08" src="https://github.com/user-attachments/assets/808c76dd-5850-4047-8850-4acb862c36cf">
+</p>
+<p>
+Double click on the PC screen you have just added and enter in the user id and password you created earlier.
 </p>
 <br />
 
@@ -106,31 +114,24 @@ Open Microsoft Remote Desktop on your computer and click the + to add PC. Paste 
 <img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
 </p>
 <p>
-Open .
+<!--DELETE? NOT REALLY NEEDED?--> Open a seperate browser and for ease of use, copy past this url into a new tab ----> https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.cajb4ktub1km
+We will use this to easily open other applications from within the browser.
 </p>
 <br />
 
 <p>
-<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+<img width="1431" alt="09 Control panel" src="https://github.com/user-attachments/assets/07f5a723-261f-4a42-b6b7-ee25334caa73">
 </p>
 <p>
-Open 
-</p>
-<br />
-
-<p>
-<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
-</p>
-<p>
-Open 
+Next we will Install and Enable IIS with Windows CGI. Right click the start menu and search for Run. Type in control (for the control panel). 
 </p>
 <br />
 
 <p>
-<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+<img width="1440" alt="10" src="https://github.com/user-attachments/assets/b8e35d19-c11b-40d5-a872-c17a0c445083">
 </p>
 <p>
-Open 
+Click Program> and under Programs and Features click ---> Turn Windows feature on or off> Find Internet Information Service and check the box> Click the + next to Internet Information Service to show more options> Click the + next to World Wide Web services> Click the + next to Application Development features> Find CGI and check the box. Collapse Application Development and Find Common HTTP Features>
 </p>
 <br />
 
