@@ -181,6 +181,16 @@ Next we will create the directory C:\PHP. Open the Start search bar and search D
 <img width="1440" alt="15" src="https://github.com/user-attachments/assets/179c7096-fcfb-43f4-ac08-57609ee1d098">
 </p>
 <p>
+  <img width="1440" alt="16" src="https://github.com/user-attachments/assets/38e7f4d6-90f1-45ee-9efc-e240788e95f9">
+</p>
+<p> Next we will download PHP. Go back to the installations files from the browser we have saved. This time go directly to the installation list of files and open it. Download php-7.3.8-nts-Win32-VC15-x86.zip.
+</p> 
+<br />
 
+<p>
+<img width="1440" alt="PHP extract all" src="https://github.com/user-attachments/assets/09944bbe-078e-4153-9bd5-d72cc191ce64">
+</p>
+<p>
+Find it in downloads and Right click on it for more options. Click Extract all.
 </p>
 <br />
