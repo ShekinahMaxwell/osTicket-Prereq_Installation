@@ -80,18 +80,72 @@ Checkpoint screen. Deployment is in progress.
 <br />
 
 <b>Step 2: Installation of osTicket</b>
+<p> Here we will remote desktop into the vritual machine we just created and install osTicket there.</p>
 <p>
-image
+<img width="1440" alt="deployment complete" src="https://github.com/user-attachments/assets/dc1d0598-735a-44a2-9217-c76ccc1f7728">
 </p>
+
 <p>
-words dhjskfhsjkf
+<img width="1440" alt="06" src="https://github.com/user-attachments/assets/376a182c-a191-47ff-a1bf-a4af9e9e36aa">
+</p>
+
+<p>
+Once deployment is complete, click on Go to Resource. From this screen copy the ip address of our vm-osTicket.
 </p>
 <br />
 
 <p>
-img
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
 </p>
 <p>
-wordsjhsfksefjs
+Open Microsoft Remote Desktop on your computer and click the + to add PC. Paste the IP address into PC name and click add.
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open .
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open 
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open 
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open 
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open 
+</p>
+<br />
+
+<p>
+<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+</p>
+<p>
+Open 
 </p>
 <br />
