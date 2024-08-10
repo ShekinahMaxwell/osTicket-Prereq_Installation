@@ -131,22 +131,23 @@ Next we will Install and Enable IIS with Windows CGI. Right click the start menu
 <img width="1440" alt="10" src="https://github.com/user-attachments/assets/b8e35d19-c11b-40d5-a872-c17a0c445083">
 </p>
 <p>
-Click Program> and under Programs and Features click ---> Turn Windows feature on or off> Find Internet Information Service and check the box> Click the + next to Internet Information Service to show more options> Click the + next to World Wide Web services> Click the + next to Application Development features> Find CGI and check the box. Collapse Application Development and Find Common HTTP Features>
+Click Program> and under Programs and Features click ---> Turn Windows feature on or off> Find Internet Information Service and check the box> Click the + next to Internet Information Service to show more options> Click the + next to World Wide Web services> Click the + next to Application Development features> Find CGI and check the box. 
 </p>
 <br />
 
 <p>
-<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+<img width="1440" alt="11" src="https://github.com/user-attachments/assets/210d45e6-2a40-41d4-9ce7-90f8be394df1">
 </p>
 <p>
-Open 
+Collapse Application Development> Find Common HTTP Features> Select all the boxes next to each option> Click OK. After loading the screen should say Windows completed the rewuested changes > Click Close.
 </p>
 <br />
 
 <p>
-<img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
+<img width="1440" alt="12 check point" src="https://github.com/user-attachments/assets/bb4b61c3-a4ae-4152-af76-31126da41209">
 </p>
 <p>
-Open 
+Test to be sure IIS is working by typing into a web browser ---> 127.0.0.1 
+You should see a screen like the image above if IIS has been correctly downloaded.
 </p>
 <br />
