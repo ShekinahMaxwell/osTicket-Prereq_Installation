@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. What is osTicket? osTicket is essentially a widely used, free Help Desk ticketing sytem to help steamline customer service and support.<br/>
 
 <h2>Environments and Technologies Used</h2>
 
