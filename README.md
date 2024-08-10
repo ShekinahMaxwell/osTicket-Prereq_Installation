@@ -32,18 +32,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <b>Step 1: </b>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1303" alt="01" src="https://github.com/user-attachments/assets/3561ff38-ed3f-4417-86c6-b9846e3b7321">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to portal.azure.com and assuming you already have a subscription set up, search resources in the search bar and click Create.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="01" src="https://github.com/user-attachments/assets/1dda7f43-7340-4282-9636-fd974ebf1a88">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Label RG-osTicket and click Review+Create and then click Create.
 </p>
 <br />
 
