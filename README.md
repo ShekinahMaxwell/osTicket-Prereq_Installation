@@ -247,9 +247,25 @@ Next we will open IIS as an Admin,
 <br />
 
 <p>
-<img
+<img width="1440" alt="26" src="https://github.com/user-attachments/assets/5adf6a0d-22a9-494b-9f78-8639d84dfb5b">
 </p>
 <p>
-Next we will open IIS as an Admin, 
+  words...
+</p>
+<br />
+
+<p>
+<img width="1440" alt="28" src="https://github.com/user-attachments/assets/842e3a9e-e6d8-4e0e-97df-e49cd3d1e86d">
+</p>
+<p>
+  words...
+</p>
+<br />
+
+<p>
+<img width="1440" alt="32" src="https://github.com/user-attachments/assets/ac09cdfa-e1a8-4274-aeb0-1e75e70ef722">
+</p>
+<p>
+  login as Admin to test it.
 </p>
 <br />
