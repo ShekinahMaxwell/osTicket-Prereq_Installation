@@ -194,3 +194,62 @@ Next we will create the directory C:\PHP. Open the Start search bar and search D
 Find it in downloads and Right click on it for more options. Click Extract all.
 </p>
 <br />
+
+<p>
+<img width="1406" alt="17" src="https://github.com/user-attachments/assets/f2d0c437-9735-46e8-bab6-f66f04e9bb7b">
+</p>
+<p>
+Where it says Files will be extracted to this folder, Type C:\PHP into that bar. We want the files to go into the folder we just created.
+</p>
+<br />
+
+<p>
+<img width="1440" alt="18" src="https://github.com/user-attachments/assets/01d4637f-f454-4f37-8078-69c0a75631a4">
+</p>
+<p>
+Next, continue downloading from the installation list of files. Select VC_redist.x86.exe and download. Install. Next install MySQL 5.5.62 from the installation list. Click Typical install and Install. Click Standard configuration> Next> Next again> Create your login credentials (DO NOT FORGET YOUR USERNAME AND PASSWORD)> Next> Execute
+</p>
+<br />
+
+<p>
+<img width="497" alt="19" src="https://github.com/user-attachments/assets/41ef6859-f9a6-45dd-b206-e60e537a0e00">
+</p>
+<p>
+Next we will open IIS as an Admin. Search IIS from Start menu. Right click on ISS and select Run as Administrator.
+</p>
+<br />
+
+<p>
+<img width="1440" alt="20" src="https://github.com/user-attachments/assets/4e3ca0e4-e351-4e2e-8c40-096cbad18b1e">
+</p>
+<p> 
+<img width="870" alt="21" src="https://github.com/user-attachments/assets/3575a360-f2a1-4d3a-b1e5-aebc6ff95e22">
+</p>
+<p>
+Next we will Register PHP from within IIS. Select PHP manager> Click register new PHP version> Search in the PHP folder for php-cgi and select it> 
+</p>
+<br />
+
+<p>
+<img width="1440" alt="23" src="https://github.com/user-attachments/assets/7f1284fb-d2c6-4c0c-bfda-b19f58291acf">
+</p>
+<p>
+Next lets download osTicket from the installation files list.
+</p>
+<br />
+
+<p>
+<img width="1440" alt="24" src="https://github.com/user-attachments/assets/d91c5fb4-7e45-4195-a050-9dbceeeb555d">
+</p>
+<p>
+Next we will open IIS as an Admin, 
+</p>
+<br />
+
+<p>
+<img
+</p>
+<p>
+Next we will open IIS as an Admin, 
+</p>
+<br />
