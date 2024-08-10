@@ -114,7 +114,7 @@ Double click on the PC screen you have just added and enter in the user id and p
 <img width="567" alt="07" src="https://github.com/user-attachments/assets/a822f63c-8910-4e11-9fdf-d450c466397c">
 </p>
 <p>
-<!--DELETE? NOT REALLY NEEDED?--> Open a seperate browser and for ease of use, copy past this url into a new tab ----> https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.cajb4ktub1km
+Open a seperate browser and for ease of use, copy past this url into a new tab ----> https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.cajb4ktub1km
 We will use this to easily open other applications from within the browser.
 </p>
 <br />
@@ -149,5 +149,38 @@ Collapse Application Development> Find Common HTTP Features> Select all the boxe
 <p>
 Test to be sure IIS is working by typing into a web browser ---> 127.0.0.1 
 You should see a screen like the image above if IIS has been correctly downloaded.
+</p>
+<br />
+
+<p>
+<img width="1440" alt="13" src="https://github.com/user-attachments/assets/8066d560-1725-4294-a28e-643eb3e0b887">
+</p>
+<p>
+Open the browser saved with the URL from earlier. This has our installation files on it. Click PHPManagerForIIS_V1.5.0.msi and download. Click Download Anyway when popup appears. Click Next> I Agree and then Next>
+</p>
+<br />
+
+<p>
+<img width="1440" alt="PHP manager" src="https://github.com/user-attachments/assets/df05a9a8-a06a-415a-83be-3828f681c013">
+</p>
+<p>
+Should get this screen when complete. Exit. Go back to the browser with our installation files on it. Click and download rewrite_amd64_en-US.msi
+Install.
+</p>
+<br />
+
+<p>
+<img width="1440" alt="14 Start" src="https://github.com/user-attachments/assets/d64c1d87-8dc4-4115-b175-10fda9a86e85">
+</p>
+<p>
+Next we will create the directory C:\PHP. Open the Start search bar and search Downloads. Type C: in the bar that says This PC to search for Windows (C:)
+</p>
+<br />
+
+<p>
+<img width="1440" alt="15" src="https://github.com/user-attachments/assets/179c7096-fcfb-43f4-ac08-57609ee1d098">
+</p>
+<p>
+
 </p>
 <br />
